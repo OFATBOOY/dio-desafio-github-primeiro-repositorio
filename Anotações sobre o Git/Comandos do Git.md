@@ -2,7 +2,7 @@
 
 ## Para instalar o Git:
 
-[Instalação do Git](https://msysgit.github.com/)
+[Instalação do Git](https://git-scm.com/downloads)
 
 - cd - navegar pelos arquivos
 - cd .. - voltar um local/pasta
