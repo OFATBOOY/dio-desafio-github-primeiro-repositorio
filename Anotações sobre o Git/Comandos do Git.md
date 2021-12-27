@@ -14,3 +14,4 @@
 - git add - para add novos arquivos
 - git commit - se usa depois de ter feito o git add , armazena o conteúdo atual do índice em um novo commit.
 - git status - verificar status dos arquivos.
+- echo - cria arquivos nas pastas
